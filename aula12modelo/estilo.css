@@ -18,6 +18,10 @@ div{
     text-align: center;
     padding: 8px;
 }
+div img{
+    width: 450px;
+    height: 250px;
+}
 footer{
     color: white;
     text-align: center;
